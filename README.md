@@ -14,4 +14,5 @@ DATA- INPUT THERMAL IMAGE:
 RESULT IMAGE AFTER MEAN SHIFT:
 
 ![alt text](Thermal_Result.png)
+/home/vriplab9/Desktop/Neeraj/Processing/Thermal_Result.png
 
