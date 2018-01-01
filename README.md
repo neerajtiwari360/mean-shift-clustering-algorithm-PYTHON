@@ -11,10 +11,10 @@ DATA- INPUT THERMAL IMAGE:
 
 ![alt text](Data.png)
 
-RESULT IMAGE AFTER MEAN SHIFT:
+RESULT IMAGE AFTER MEAN SHIFT WITH quantile=.04, n_samples=1000
 
-![alt text](Thermal_Result.png)
+![alt text](Result.png)
 
-
+RESULT IMAGE AFTER MEAN SHIFT WITH quantile=.004, n_samples=1000
 ![alt text](Thermal_Result.png)
 
