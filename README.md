@@ -13,5 +13,5 @@ DATA- INPUT THERMAL IMAGE:
 
 RESULT IMAGE AFTER MEAN SHIFT:
 
-![alt text](Result.png)
+![alt text](/home/vriplab9/Result.png)
 
