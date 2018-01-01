@@ -21,3 +21,6 @@ RESULT IMAGE AFTER MEAN SHIFT WITH quantile=.004, n_samples=1000
 
 Explore Builtin function from 
 @http://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html#sklearn.cluster.MeanShift
+
+PYTHON CODE:
+![alt text](Mean_Shift.py)
