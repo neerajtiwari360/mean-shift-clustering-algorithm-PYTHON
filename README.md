@@ -23,4 +23,4 @@ Explore Builtin function from
 @http://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html#sklearn.cluster.MeanShift
 
 PYTHON CODE:
-![alt text](Mean_Shift.py)
+check Mean_Shift.py
